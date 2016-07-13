@@ -1,15 +1,15 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Scholarly Website
 locale:           en_US
 logo:
-url:		
+url:
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
-  email: #emailaddress
+  name: Russell Mailen
+  avatar: headshot.jpg
+  bio: "PhD candidate in Mechanical Engineering at North Carolina State University"
+  email: rwmailen@ncsu.edu
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -20,7 +20,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: rwmailen
   stackoverflow: #123456/username from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
