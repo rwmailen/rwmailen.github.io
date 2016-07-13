@@ -3,22 +3,23 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Research Assistant at North Carolina State University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2013 - Present`
+__North Carolina State University__
+PhD in Mechanical and Engineering - Anticipated Fall 2016
+Master of Material Science and Engineering - received Spring 2016
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2010 - 2012`
+__Baylor University__
+MAster of Science in Mechanical Engineering
 
 ## Awards
 
 `2012`
-Name of Award, Organization 
+Name of Award, Organization
 
 ## Publications
 
@@ -50,13 +51,13 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
 
 `1994-1996`
-__Current Job Title__, Current Employer 
+__Current Job Title__, Current Employer
 
 - Task
 - Task
@@ -66,5 +67,3 @@ __Current Job Title__, Current Employer
 <!-- ### Footer
 
 Last updated: May 2013 -->
-
-
