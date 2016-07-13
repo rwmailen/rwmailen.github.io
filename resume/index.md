@@ -16,7 +16,7 @@ Master of Material Science and Engineering - received Spring 2016
 __Baylor University__\
 Master of Science in Mechanical Engineering
 
-'2003 - 2007'\
+`2003 - 2007`\
 __University of Kansas__\
 Bachelor of Science in Aerospace Engineering
 
