@@ -7,14 +7,18 @@ Research Assistant at North Carolina State University
 
 ## Education
 
-`2013 - Present`
-__North Carolina State University__
-PhD in Mechanical and Engineering - Anticipated Fall 2016
+`2013 - Present`\
+__North Carolina State University__\
+PhD in Mechanical and Engineering - Anticipated Fall 2016\
 Master of Material Science and Engineering - received Spring 2016
 
-`2010 - 2012`
-__Baylor University__
-MAster of Science in Mechanical Engineering
+`2010 - 2012`\
+__Baylor University__\
+Master of Science in Mechanical Engineering
+
+'2003 - 2007'\
+__University of Kansas__\
+Bachelor of Science in Aerospace Engineering
 
 ## Awards
 
