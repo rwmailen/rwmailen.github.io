@@ -13,68 +13,34 @@ __North Carolina State University__
 
 PhD in Mechanical and Engineering - Anticipated Fall 2016
 
-Master of Material Science and Engineering - received Spring 2016
+Master of Material Science and Engineering - Received Spring 2016
 
 `2010 - 2012`
 
 __Baylor University__
 
-Master of Science in Mechanical Engineering
+Master of Science in Mechanical Engineering - Received Fall 2012
 
 `2003 - 2007`
 
 __University of Kansas__
 
-Bachelor of Science in Aerospace Engineering
+Bachelor of Science in Aerospace Engineering - Received Spring 2007
 
-## Awards
+## Work Experience
 
-`2012`
-Name of Award, Organization
+`2009 - 2011`
 
-## Publications
+__L-3 Communications__ - *Waco, Texas*
+* Structural Analyst
+* Flight Test Support
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2007 - 2009`
 
-### Journals
+__Hawker Beechcraft__ - *Wichita, Kansas*
+* Liaison Engineering
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
-
-
-## Occupation
-
-`Current`
-__Current Job Title__, Current Employer
-
-- Task
-- Task
-
-`1994-1996`
-__Current Job Title__, Current Employer
-
-- Task
-- Task
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+## Clubs and Organizations
+* Toastmaster's International - Competent Leader and Competent Communicator
+* American Society of Mechanical Engineers
+* Society of Polymer Engineers
