@@ -31,16 +31,21 @@ Bachelor of Science in Aerospace Engineering - Received Spring 2007
 
 `2009 - 2011`
 
-__L-3 Communications__ - *Waco, Texas*
+__L-3 Communications__
+*Waco, Texas*
+
 * Structural Analyst
 * Flight Test Support
 
 `2007 - 2009`
 
-__Hawker Beechcraft__ - *Wichita, Kansas*
+__Hawker Beechcraft__
+*Wichita, Kansas*
+
 * Liaison Engineering
 
 ## Clubs and Organizations
+
 * Toastmaster's International - Competent Leader and Competent Communicator
 * American Society of Mechanical Engineers
 * Society of Polymer Engineers
