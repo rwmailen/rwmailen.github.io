@@ -6,7 +6,7 @@ modified: 2016-07-15T09:21:07.573882-04:00
 comments: true
 ---
 
-I received my bachelor's degree in aerospace engineering from the University of Kansas in 2007. After that, I worked at Hawker Beechcraft in Wichita, Kansas and then L-3 Communications in both Waco, Texas and Crestview, Florida. During my time in the aerospace industry, I worked as a liaison engineer and structural analyst on a variety of military and civilian aircraft platforms. Additionally, I provided engineering support for two active flight test programs.
+I received my bachelor's degree in aerospace engineering from the University of Kansas in 2007. After graduating, I worked at Hawker Beechcraft in Wichita, Kansas and then L-3 Communications in both Waco, Texas and Crestview, Florida. During my time in the aerospace industry, I worked as a liaison engineer and structural analyst on a variety of military and civilian aircraft platforms. Additionally, I provided engineering support for two active flight test programs.
 
 While at L-3 Communications I began a master's degree program at Baylor University. My research focused on finite element analysis and laminated composite manufacturing using the vacuum assisted resin transfer molding (VARTM) technique. I also learned polymer characterization techniques using differential scanning calorimetry (DSC), dynamic mechanical analysis (DMA), thermogravimetric analysis (TMA), and rheology.
 
