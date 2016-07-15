@@ -67,14 +67,6 @@ __Hawker Beechcraft__ `2007 - 2009`
 *	Hands-on experience with laminated composite fabrication
 *	Licensed private pilot
 
-## Clubs and Organizations
-* Toastmaster's International
-
-  -Competent Leader and Competent Communicator
-
-* American Society of Mechanical Engineers
-* Society of Polymer Engineers
-
 ## Leadership
 * Toastmasters International: achieved Competent Communicator and Competent Leader awards
 * Triangle Fraternity: acted as secretary/public relations, sergeant at arms, and pledge educator
