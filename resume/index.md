@@ -45,6 +45,9 @@ Liaison Engineer
 ## Clubs and Organizations
 
 Toastmaster's International
+
   -Competent Leader and Competent Communicator
+
 American Society of Mechanical Engineers
+
 Society of Polymer Engineers
