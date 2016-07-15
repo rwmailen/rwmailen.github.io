@@ -2,15 +2,20 @@
 layout: page
 title: About Me
 tags: [about, about me, me, ]
-modified: 2014-08-08T20:53:07.573882-04:00
+modified: 2016-07-15T09:21:07.573882-04:00
 comments: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I received my bachelor's degree in aerospace engineering from the University of Kansas in 2007. From there, I worked in the aerospace industry at Hawker Beechcraft in Wichita, Kansas and L-3 Communications in both Waco, Texas and Crestview, Florida. During my time in industry, I worked as a liaison engineer and structural analyst and a variety of military and civilian aircraft platforms. Additionally, I provided engineering support for active flight test programs.
+
+While at L-3 Communications I began a master's degree program at Baylor University. There, my research focused on laminated composite manufacturing using the vacuum assisted resin transfer technique (VARTM). I also learned polymer characterization techniques using differential scanning calorimetry (DSC), dynamic mechanical analysis (DMA), thermogravimetric analysis (TMA), and rheology.
+
+Currently I am a Ph.D. student in mechanical engineering at North Carolina State University. My primary research topic is finite element modeling of self-folding, polymer origami. Other topics I have studied include liquid-metal eutectic Gallium Indium (eGaIn), nanocomposites, and modeling of hydrogels.
 
 ## Current Interests and Projects:
 
-* Lorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
-* DLorem ipsum dolor sit amet
-* Lorem ipsum dolor sit amet
+* Time-dependent material behavior
+* Smart materials and structures
+* Nanocomposites
+* Laminated composites
+* Aerospace applications
