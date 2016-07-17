@@ -7,7 +7,8 @@ Research Assistant at North Carolina State University
 
 ## Education
 
-__North Carolina State University__ `2013 - Present`
+`Spring 2013 - Present`
+__North Carolina State University__
 
 *Raleigh, North Carolina*
 
@@ -15,22 +16,26 @@ PhD in Mechanical and Engineering - Anticipated Fall 2016
 
 Master of Material Science and Engineering - Received Spring 2016
 
-__Baylor University__ `2010 - 2012`
+
+`Fall 2010 - Fall 2012`
+__Baylor University__
 
 *Waco, Texas*
 
 Master of Science in Mechanical Engineering - Received Fall 2012
 
-- Completed Teaching Certificate in Higher Education Program
+Completed Teaching Certificate in Higher Education Program
 
-__University of Kansas__ `2003 - 2007`
+
+`Fall 2003 - Spring 2007`
+__University of Kansas__
 
 *Lawrence, Kansas*
 
 Bachelor of Science in Aerospace Engineering - Received Spring 2007
 
--	School of Engineering Dean’s List Spring 2005
--	Graduated with Departmental Honors
+School of Engineering Dean’s List Spring 2005
+Graduated with Departmental Honors
 
 ## Work Experience
 
@@ -38,7 +43,7 @@ __North Carolina State University__ `2009 - Present`
 
 Funded Research Assistant by NSF Emerging Frontiers in Research Innovation Grand
 
-Research Focus: Shape memort polymers and polymer based nanocomposites
+Research Focus: Shape memory polymers and polymer based nanocomposites
 
 Instructor for MAE 206 Engineering Statics, Summer 2015
 Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
