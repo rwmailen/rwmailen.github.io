@@ -21,24 +21,53 @@ __Baylor University__ `2010 - 2012`
 
 Master of Science in Mechanical Engineering - Received Fall 2012
 
+- Completed Teaching Certificate in Higher Education Program
+
 __University of Kansas__ `2003 - 2007`
 
 *Lawrence, Kansas*
 
 Bachelor of Science in Aerospace Engineering - Received Spring 2007
 
+-	School of Engineering Dean’s List Spring 2005
+-	Graduated with Departmental Honors
+
 ## Work Experience
 
-__L-3 Communications__ `2009 - 2011`
+__North Carolina State University__ `2009 - Present`
+
+Funded Research Assistant by NSF Emerging Frontiers in Research Innovation Grand
+
+Research Focus: Shape memort polymers and polymer based nanocomposites
+
+Instructor for MAE 206 Engineering Statics, Summer 2015
+Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
+
+__Baylor University__ `August 2011 - December 2012`
+
+Research Assistant and Teaching Assistant
+
+ResearchFocus: Finite element analysis, polymer characterization, and analysis and processing of laminated composite materials
+
+__L-3 Communications__ `June 2009 - August 2011`
 
 *Waco, Texas* and *Crestview, Florida*
-* Structural Analyst
-* Flight Test Support
 
-__Hawker Beechcraft__ `2007 - 2009`
+Structural Analyst on C-130, MH-60, and MC-12 aircraft platforms
+
+Finite element modeling and flight test data evaluation for MH-60 flight test program
+
+Primary structural analyst for liaison engineering repairs of metallic structures for  Project Liberty aircraft at Crestview, Florida facility
+
+__Hawker Beechcraft__ `June 2007 - February 2009`
 
 *Wichita, Kansas*
-* Liaison Engineer
+
+Liaison Engineer on all civilian product lines
+
+Developed metallic and composite repairs in a fast paced production facility
+
+Trained new members of material review board
 
 ## Relevant Course Work
 *	Numerical Methods for Engineers
@@ -53,8 +82,7 @@ __Hawker Beechcraft__ `2007 - 2009`
 
 ## Honors and Affiliations
 *	Honor Societies:	Inducted member of Sigma Gamma Tau, Phi Kappa Phi, and Tau Beta Pi
-*	Professional Societies: 	American Society of Mechanical Engineers (ASME), Society of Polymer
-*	Engineers (SPE), and Society of Experimental Mechanics (SEM)
+*	Professional Societies: 	American Society of Mechanical Engineers (ASME), Society of Polymer	Engineers (SPE), and Society of Experimental Mechanics (SEM)
 *	Recipient of Brian D. Garrett Fellowship at North Carolina State University
 *	Recipient of North Carolina Space Grant Graduate Research Fellowship
 *	Recipient of Robert C. Byrd Scholarship
