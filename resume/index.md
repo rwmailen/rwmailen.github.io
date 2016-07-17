@@ -84,7 +84,7 @@ Liaison Engineer on all civilian product lines
 *	Recipient of Robert C. Byrd Scholarship
 
 ## Skills
-*	Finite Element Analysis: ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research code
+*	Finite Element Analysis: ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
 *	Computer Programming: 	Matlab, FORTRAN, and C++ for data analysis and numerical methods
 *	Polymer Characterization: 	Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
 *	Computer Aided Drafting: Solidworks, ProE, and Catia software packages
