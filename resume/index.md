@@ -3,7 +3,15 @@ layout: resume
 ---
 ## Currently
 
-Research Assistant at North Carolina State University
+__North Carolina State University__ `2009 - Present`
+
+*Raleigh, North Carolina*
+
+Funded Research Assistant by NSF Emerging Frontiers in Research Innovation Grand
+
+- Research Focus: Shape memory polymers and polymer based nanocomposites
+- Instructor for MAE 206 Engineering Statics, Summer 2015
+- Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
 
 ## Education
 __North Carolina State University__ `Spring 2013 - Present`
@@ -30,16 +38,6 @@ Bachelor of Science in Aerospace Engineering - Received Spring 2007
 - Graduated with Departmental Honors
 
 ## Work Experience
-
-__North Carolina State University__ `2009 - Present`
-
-*Raleigh, North Carolina*
-
-Funded Research Assistant by NSF Emerging Frontiers in Research Innovation Grand
-
-- Research Focus: Shape memory polymers and polymer based nanocomposites
-- Instructor for MAE 206 Engineering Statics, Summer 2015
-- Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
 
 __Baylor University__ `August 2011 - December 2012`
 
