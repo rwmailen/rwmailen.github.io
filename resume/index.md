@@ -92,6 +92,6 @@ Liaison Engineer on all civilian product lines
 *	Licensed private pilot
 
 ## Leadership
-* Toastmasters International: achieved Competent Communicator and Competent Leader awards
-* Triangle Fraternity: acted as secretary/public relations, sergeant at arms, and pledge educator
-*	Holy Cross Lutheran Church: guitar player on worship band
+* Toastmasters International: Competent Communicator and Competent Leader awards
+* Triangle Fraternity: secretary/public relations, sergeant at arms, and pledge educator
+*	Holy Cross Lutheran Church: guitar player in worship band
