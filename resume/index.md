@@ -6,29 +6,21 @@ layout: resume
 Research Assistant at North Carolina State University
 
 ## Education
-
-`Spring 2013 - Present`
-
-__North Carolina State University__
+__North Carolina State University__ `Spring 2013 - Present`
 
 *Raleigh, North Carolina*
 
 - PhD in Mechanical and Engineering - Anticipated Fall 2016
 - Master of Material Science and Engineering - Received Spring 2016
 
-
-`Fall 2010 - Fall 2012`
-
-__Baylor University__
+__Baylor University__ `Fall 2010 - Fall 2012`
 
 *Waco, Texas*
 
 - Master of Science in Mechanical Engineering - Received Fall 2012
 - Completed Teaching Certificate in Higher Education Program
 
-`Fall 2003 - Spring 2007`
-
-__University of Kansas__
+__University of Kansas__ `Fall 2003 - Spring 2007`
 
 *Lawrence, Kansas*
 
@@ -104,4 +96,4 @@ Liaison Engineer on all civilian product lines
 ## Leadership
 * Toastmasters International: achieved Competent Communicator and Competent Leader awards
 * Triangle Fraternity: acted as secretary/public relations, sergeant at arms, and pledge educator
-*	Holy Cross Lutheran Church: guitar player on praise team
+*	Holy Cross Lutheran Church: guitar player on worship band
