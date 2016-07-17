@@ -3,7 +3,7 @@ layout: resume
 ---
 ## Currently
 
-__North Carolina State University__ `2009 - Present`
+__North Carolina State University__ `2013 - Present`
 
 *Raleigh, North Carolina*
 
