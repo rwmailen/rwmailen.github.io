@@ -8,51 +8,54 @@ Research Assistant at North Carolina State University
 ## Education
 
 `Spring 2013 - Present`
+
 __North Carolina State University__
 
 *Raleigh, North Carolina*
 
-PhD in Mechanical and Engineering - Anticipated Fall 2016
-
-Master of Material Science and Engineering - Received Spring 2016
+- PhD in Mechanical and Engineering - Anticipated Fall 2016
+- Master of Material Science and Engineering - Received Spring 2016
 
 
 `Fall 2010 - Fall 2012`
+
 __Baylor University__
 
 *Waco, Texas*
 
-Master of Science in Mechanical Engineering - Received Fall 2012
-
-Completed Teaching Certificate in Higher Education Program
-
+- Master of Science in Mechanical Engineering - Received Fall 2012
+- Completed Teaching Certificate in Higher Education Program
 
 `Fall 2003 - Spring 2007`
+
 __University of Kansas__
 
 *Lawrence, Kansas*
 
 Bachelor of Science in Aerospace Engineering - Received Spring 2007
 
-School of Engineering Dean’s List Spring 2005
-Graduated with Departmental Honors
+- School of Engineering Dean’s List Spring 2005
+- Graduated with Departmental Honors
 
 ## Work Experience
 
 __North Carolina State University__ `2009 - Present`
 
+*Raleigh, North Carolina*
+
 Funded Research Assistant by NSF Emerging Frontiers in Research Innovation Grand
 
-Research Focus: Shape memory polymers and polymer based nanocomposites
-
-Instructor for MAE 206 Engineering Statics, Summer 2015
-Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
+- Research Focus: Shape memory polymers and polymer based nanocomposites
+- Instructor for MAE 206 Engineering Statics, Summer 2015
+- Teaching Assistant for MAE 206 Engineering Statics, Fall 2013 - Fall 2014
 
 __Baylor University__ `August 2011 - December 2012`
 
+*Waco, Texas*
+
 Research Assistant and Teaching Assistant
 
-ResearchFocus: Finite element analysis, polymer characterization, and analysis and processing of laminated composite materials
+- Research Focus: Finite element analysis, polymer characterization, and analysis and processing of laminated composite materials
 
 __L-3 Communications__ `June 2009 - August 2011`
 
@@ -60,9 +63,8 @@ __L-3 Communications__ `June 2009 - August 2011`
 
 Structural Analyst on C-130, MH-60, and MC-12 aircraft platforms
 
-Finite element modeling and flight test data evaluation for MH-60 flight test program
-
-Primary structural analyst for liaison engineering repairs of metallic structures for  Project Liberty aircraft at Crestview, Florida facility
+- Finite element modeling and flight test data evaluation for MH-60 flight test program
+- Primary structural analyst for liaison engineering repairs of metallic structures for  Project Liberty aircraft at Crestview, Florida facility
 
 __Hawker Beechcraft__ `June 2007 - February 2009`
 
@@ -70,9 +72,8 @@ __Hawker Beechcraft__ `June 2007 - February 2009`
 
 Liaison Engineer on all civilian product lines
 
-Developed metallic and composite repairs in a fast paced production facility
-
-Trained new members of material review board
+- Developed metallic and composite repairs in a fast paced production facility
+- Trained new members of material review board
 
 ## Relevant Course Work
 *	Numerical Methods for Engineers
