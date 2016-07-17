@@ -50,7 +50,7 @@ __Hawker Beechcraft__ `2007 - 2009`
 *	Mechanical Behavior of Engineering Materials
 *	Polymer Science and Technology
 *	Fracture Mechanics
- 
+
 ## Honors and Affiliations
 *	Honor Societies:	Inducted member of Sigma Gamma Tau, Phi Kappa Phi, and Tau Beta Pi
 *	Professional Societies: 	American Society of Mechanical Engineers (ASME), Society of Polymer
