@@ -97,13 +97,13 @@ __*June 2007 - February 2009*__
 -- Recipient of Brian D. Garrett Fellowship (NCSU), North Carolina Space Grant Graduate Research Fellowship (NCSU), and the Robert C. Byrd Scholarship (KU)
 
 ## Skills
--- Finite Element Analysis: *ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes*
+-- *Finite Element Analysis:* ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
 
--- Computer Programming: *Matlab, FORTRAN, and C++ for data analysis and numerical methods*
+-- *Computer Programming:* Matlab, FORTRAN, and C++ for data analysis and numerical methods
 
--- Polymer Characterization: *Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology*
+-- *Polymer Characterization:* Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology*
 
--- Computer Aided Drafting: *Solidworks, ProE, and Catia software packages*
+-- *Computer Aided Drafting:* Solidworks, ProE, and Catia software packages
 
 -- Hands-on experience with laminated composite fabrication
 
