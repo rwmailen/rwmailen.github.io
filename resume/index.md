@@ -101,7 +101,7 @@ __*June 2007 - February 2009*__
 
 -- *Computer Programming:* Matlab, FORTRAN, and C++ for data analysis and numerical methods
 
--- *Polymer Characterization:* Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology*
+-- *Polymer Characterization:* Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
 
 -- *Computer Aided Drafting:* Solidworks, ProE, and Catia software packages
 
