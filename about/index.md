@@ -14,6 +14,7 @@ Currently, I am a Ph.D. student in mechanical engineering at North Carolina Stat
 
 ## Current Interests and Projects:
 
+* Polymers and polymer composites
 * Multi-physics finite element analysis
 * Time-dependent material behavior
 * Smart materials and structures
