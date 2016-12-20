@@ -1,5 +1,5 @@
 ---
-layout: resume
+layout: page
 ---
 ## Education
 __North Carolina State University__ - *Raleigh, North Carolina*
