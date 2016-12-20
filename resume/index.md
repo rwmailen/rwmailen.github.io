@@ -4,7 +4,7 @@ layout: resume
 ## Education
 __North Carolina State University__ - *Raleigh, North Carolina*
 
-    -- PhD in Mechanical and Engineering - Anticipated Spring 2017
+    -- Changed PhD in Mechanical and Engineering - Anticipated Spring 2017
 
     -- Master of Material Science and Engineering - Spring 2016
 
