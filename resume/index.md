@@ -90,17 +90,13 @@ __*June 2007 - February 2009*__
 -- Viscoelasticity
 
 ## Skills
--- __Finite Element Analysis:__ ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
 
--- __Computer Programming:__ Matlab, FORTRAN, and C++ for data analysis and numerical methods
-
--- __Polymer Characterization:__ Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
-
--- __Computer Aided Drafting:__ Solidworks, ProE, and Catia software packages
-
--- Hands-on experience with laminated composite fabrication
-
--- Licensed private pilot
+* __Finite Element Analysis:__ ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
+* __Computer Programming:__ Matlab, FORTRAN, and C++ for data analysis and numerical methods
+* __Polymer Characterization:__ Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
+* __Computer Aided Drafting:__ Solidworks, ProE, and Catia software packages
+* Hands-on experience with laminated composite fabrication
+* Licensed private pilot
 
 ## Honors and Affiliations
 -- Inducted member of Sigma Gamma Tau, Phi Kappa Phi, and Tau Beta Pi honor societies
