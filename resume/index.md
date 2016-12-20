@@ -4,25 +4,25 @@ layout: resume
 ## Education
 __North Carolina State University__ - *Raleigh, North Carolina*
 
-    -- Changed PhD in Mechanical and Engineering - Anticipated Spring 2017
+-- Ph.D. in Mechanical and Engineering - Anticipated Spring 2017
 
-    -- Master of Material Science and Engineering - Spring 2016
+-- Master of Material Science and Engineering - Spring 2016
 
 
 __Baylor University__ - *Waco, Texas*
 
-    -- Master of Science in Mechanical Engineering - Fall 2012
+-- Master of Science in Mechanical Engineering - Fall 2012
 
-    -- Completed Teaching Certificate in Higher Education Program
+-- Completed Teaching Certificate in Higher Education Program
 
 
 __University of Kansas__ - *Lawrence, Kansas*
 
-    -- Bachelor of Science in Aerospace Engineering - Spring 2007
+-- Bachelor of Science in Aerospace Engineering - Spring 2007
 
-    -- School of Engineering Dean’s List Spring 2005
+-- School of Engineering Dean’s List Spring 2005
 
-    -- Graduated with Departmental Honors
+-- Graduated with Departmental Honors
 
 
 ## Work Experience
@@ -90,13 +90,13 @@ __*June 2007 - February 2009*__
 -- Viscoelasticity
 
 ## Skills
--- *Finite Element Analysis:* ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
+-- __Finite Element Analysis:__ ABAQUS, ANSYS, PATRAN/NASTRAN, COMSOL, and custom and research codes
 
--- *Computer Programming:* Matlab, FORTRAN, and C++ for data analysis and numerical methods
+-- __Computer Programming:__ Matlab, FORTRAN, and C++ for data analysis and numerical methods
 
--- *Polymer Characterization:* Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
+-- __Polymer Characterization:__ Differential Scanning Calorimetry (DSC), Dynamic Mechanical Analysis	(DMA), Thermogravimetric Analysis (TGA), and Rheology
 
--- *Computer Aided Drafting:* Solidworks, ProE, and Catia software packages
+-- __Computer Aided Drafting:__ Solidworks, ProE, and Catia software packages
 
 -- Hands-on experience with laminated composite fabrication
 
