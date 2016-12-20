@@ -24,6 +24,7 @@ __University of Kansas__ - *Lawrence, Kansas*
 
 ## Work Experience
 __North Carolina State University__ - *Raleigh, North Carolina*
+
 __*January 2013 - Present*__
 
 * Research Assistant funded by a National Science Foundation Emerging Frontiers in Research Innovation (EFRI) Grant
