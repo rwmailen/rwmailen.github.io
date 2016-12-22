@@ -17,4 +17,4 @@ I graduated with a Master of Materials Science and Engineering (MMSE) degree in 
 
 On July 1, I completed my preliminary oral exam. The exam included a discussion of the work I have done so far at NCSU, and I laid out my plans for the remainder of my research here. This is a major milestone leading up to my graduation next spring.
 
-I spent this summer and fall working on two manuscripts, which have now been submitted for review. One of these manuscripts is a collaboration with Amber Hubbard in which we looked to ways to induce curvature in polymer sheets. The other paper was a study of the effects of thermomechanical loads on the self-folding behavior of shape memory polymer sheets.
+I spent this summer and fall working on two manuscripts, which have now been submitted for review. One of these manuscripts is a collaboration with Amber Hubbard in which we investigated ways to induce curvature in polymer sheets. The other paper was a study of the effects of thermomechanical loads on the self-folding behavior of shape memory polymer sheets.
