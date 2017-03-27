@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Controllable Curvature in Shape Memory Polymer Sheets
-excerpt: "."
+excerpt: "Researchers at North Carolina State University have developed a technique that uses light to get two-dimensional (2-D) plastic sheets to curve into three-dimensional (3-D) structures, such as spheres, tubes or bowls.."
 modified: 2017-03-27 12:28:00
 tags: [Origami, Shape Memory Polymers, Curvature]
 comments: true

@@ -6,8 +6,8 @@ modified: 2016-07-14T11:50
 comments: true
 ---
 ## Journal Articles
-* R. W. Mailen, M. D. Dickey, J. Genzer, M. A. Zikry, Fully-coupled, thermo-viscoelastic finite element model for self-folding shape memory polymer sheets. *To be submitted Fall 2016 to Journal of Polymer Science Part B: Polymer Physics.*
-* R. W. Mailen, A. Hubbard, M. A. Zikry, M. D. Dickey, J. Genzer, Controllable curvature from planar polymer sheets in response to light. *To be submitted Spring 2017.*
+* R. W. Mailen, M. D. Dickey, J. Genzer, M. A. Zikry, Fully-coupled, thermo-viscoelastic finite element model for self-folding shape memory polymer sheets. *Under Review Journal of Polymer Science Part B: Polymer Physics.*
+* A. Hubbard,* R. W. Mailen,* M. A. Zikry, M. D. Dickey, J. Genzer, (* Co-first authors), Controllable curvature from planar polymer sheets in response to light. *Soft Matter*, 2017.
 * D. Morales, I. Podolsky, R. W. Mailen, T. Shay, M. D. Dickey, O. Velev, Ionoprinted multi-responsive hydrogel actuators. *Micromachines*, 2016.
 * D. Davis, R. Mailen, J. Genzer, M. Dickey. Self-folding of polymer sheets using microwaves and graphene ink. *RSC Advances*, 2015.
 * R. Mailen, Y. Liu, M. Dickey, M. Zikry, and J. Genzer. Modelling of shape memory polymer sheets that self-fold in response to localized heating. *Soft Matter*, 2015.
